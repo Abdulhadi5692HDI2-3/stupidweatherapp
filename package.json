@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  },
+  "name": "stupidweather",
+  "version": "1.0.0",
+  "description": "A web-app to display weather",
+  "main": "src/index.php",
+  "devDependencies": {},
+  "scripts": {
+    "test": "php -S localhost:8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulhadi5692HDI2/stupid-weather.git"
+  },
+  "keywords": [
+    "weather",
+    "stupidity",
+    "webapp"
+  ],
+  "author": "Abdulhadi5692HDI2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdulhadi5692HDI2/stupid-weather/issues"
+  },
+  "homepage": "https://github.com/Abdulhadi5692HDI2/stupid-weather#readme"
+}
